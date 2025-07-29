@@ -107,6 +107,6 @@ CREATE TABLE EmployeeProjects (
 );
 
 -- Сообщение для проверки успешного выполнения
-SELECT 'Схема базы данных успешно создана в Docker!' AS status;
+SELECT 'Схема базы данных успешно создана!' AS status;
 ```
 ![Alt text](img/dbeaver.png)
